@@ -26,5 +26,5 @@ spring:
 
 ai:
   deepseek:
-    api-key: sk-9ed82022d03f448986ec45f82df155fe
+    api-key: *************************************
     api-url: https://api.deepseek.com/v1/chat/completions
